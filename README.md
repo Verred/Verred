@@ -14,7 +14,7 @@
 
   
 
-<picture>  <img  align="right"  src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?t=st=1736702681~exp=1736706281~hmac=12931d2c8475bfbe9c67e48257f08b2706be827c07d01f34560a6969a55eb7c3&w=826"  width = 300px></picture>
+<picture>  <img  align="right"  src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?t=st=1736702681~exp=1736706281~hmac=12931d2c8475bfbe9c67e48257f08b2706be827c07d01f34560a6969a55eb7c3&w=826"  width = 200px></picture>
 
   
 - :computer: **Currently working with ** `Cloud` **&** `Terraform`
